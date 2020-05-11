@@ -1,4 +1,4 @@
-# TheaterReservationSystem
+# Theater Reservation System
 
 Manages user reservations for a theater show.
 
