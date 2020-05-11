@@ -1,0 +1,50 @@
+newReservation
+Confirmation Code: 
+admin-1
+admin
+12-23-2020 18:30
+Number of seats reserved: 
+8
+Seats Reserved: 
+m1, m50, m150, sb1, wb100, eb100, wb1, eb1, 
+endReservation
+newReservation
+Confirmation Code: 
+admin-2
+admin
+12-26-2020 20:30
+Number of seats reserved: 
+5
+Seats Reserved: 
+sb9, eb100, m150, wb10, m36, 
+endReservation
+newReservation
+Confirmation Code: 
+admin-3
+admin
+12-23-2020 18:30
+Number of seats reserved: 
+2
+Seats Reserved: 
+eb90, wb85, 
+endReservation
+newReservation
+Confirmation Code: 
+admin-4
+admin
+01-01-2021 20:30
+Number of seats reserved: 
+7
+Seats Reserved: 
+m88, m89, m90, wb12, wb13, eb35, eb36, 
+endReservation
+newReservation
+Confirmation Code: 
+adminstrator-1
+adminstrator
+01-02-2021 20:30
+Number of seats reserved: 
+3
+Seats Reserved: 
+m83, sb50, wb100, 
+endReservation
